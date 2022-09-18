@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <TextView
+        android:id="@+id/question"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="Who invented calculus?"
+        android:textSize="35sp"
+        android:background="@drawable/solid_color_shape"
+        />
+
+
+    <TextView
+        android:id="@+id/answer"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:gravity="center"
+        android:text="Sir Issac Newton"
+        android:textSize="35sp"
+        android:visibility="invisible"
+        android:background="@drawable/solid_color_shape"
+        />
+
+    <TextView
+        android:id="@+id/question_one"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="Sir Issac Newton"
+        android:textSize="27sp"
+        android:layout_marginTop="220dp"
+        android:layout_marginLeft="31dp"
+        android:background="@drawable/solid_color_textbox"
+        />
+    <TextView
+        android:id="@+id/question_two"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="Albert Einstein"
+        android:textSize="27sp"
+        android:layout_marginTop="345dp"
+        android:layout_marginLeft="31dp"
+        android:background="@drawable/solid_color_textbox"
+        />
+    <TextView
+        android:id="@+id/question_three"
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:gravity="center"
+        android:text="Charles White"
+        android:textSize="27sp"
+        android:layout_marginTop="470dp"
+        android:layout_marginLeft="31dp"
+        android:background="@drawable/solid_color_textbox"
+        />
+
+
+
+</RelativeLayout>
