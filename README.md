@@ -10,7 +10,7 @@ This following app is a simple flashcard application that utlizes logic statemen
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="https://recordit.co/RvsydGlFHz" width=200><br>
+<img src="https://s3.amazonaws.com/img0.recordit.co/RvsydGlFHz.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1663480851&Signature=55vzPIR%2FkQGTFeRlJe9c32wtiQA%3D" width=200><br>
 
 
 
