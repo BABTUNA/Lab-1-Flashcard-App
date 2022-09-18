@@ -8,7 +8,6 @@ Ben's Question
 This following app is a simple flashcard application that utlizes logic statements and styling. It contains a singular question with varying outcomes.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="http://g.recordit.co/RvsydGlFHz.gif" width=200><br>
 
