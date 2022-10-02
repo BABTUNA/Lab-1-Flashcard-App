@@ -19,7 +19,7 @@ The following application is a more refined verision of the previous flashcard a
 - [x] Push your progress to GitHub!
 
 ## Optional
-- [] User can edit a card
+- [ ] User can edit a card
 - [x] An error message is shown if the user doesn't enter both a Question and an Answer
 - [x] A notification is shown if the card was created successfully
 - [ ] User can also enter multiple choice answers when creating a card
