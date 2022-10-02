@@ -7,9 +7,9 @@ The following application is a more refined verision of the previous flashcard a
 
 ### App Walk-though
 <img src="http://g.recordit.co/rHtuoAl87j.gif" width=200>
-<img src="hhttp://g.recordit.co/vA2qx5kcOz.gif" width=200><br>
 
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
+<img src="http://g.recordit.co/vA2qx5kcOz.gif" width=200><br>
+
 
 ## Required
 - [x] User can click on a ‘+’ button that takes the user to new ‘Add Card Screen’
