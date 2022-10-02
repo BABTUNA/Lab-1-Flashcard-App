@@ -6,7 +6,7 @@ Ben's Question
 The following application is a more refined verision of the previous flashcard application. This new verision can now let the user create their own flashcards and includes some pop-ups.
 
 ### App Walk-though
-<img src="http://g.recordit.co/rHtuoAl87j.gif" width=200><br>
+<img src="http://g.recordit.co/rHtuoAl87j.gif" width=200>
 <img src="hhttp://g.recordit.co/vA2qx5kcOz.gif" width=200><br>
 
 `TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
