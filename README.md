@@ -12,6 +12,7 @@ The following application is the same flash card app as before with a data stora
 
 <img src="http://g.recordit.co/bLQEJP2zlP.gif" width=200><br>
 <img src="http://g.recordit.co/YxVe6vXLGR.gif" width=200><br>
+<img src="http://g.recordit.co/5L1biD1HTt.gif" width=200><br>
 
 
 
